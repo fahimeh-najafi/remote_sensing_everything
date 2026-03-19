@@ -14,7 +14,7 @@ https://www.earthdata.nasa.gov/learn/trainings/fundamentals-remote-sensing
 
 - https://www.earthdata.nasa.gov/learn/trainings/introduction-synthetic-aperture-radar-sar-its-applications
 
-'SAR data'
+`SAR data`
 - https://dagshub.com/datasets/analysis-ready-sentinel-1-backscatter-imagery/?utm_source=chatgpt.com
 
 - https://data.mendeley.com/datasets/xjcr5k4c9t/1?utm_source=chatgpt.com
